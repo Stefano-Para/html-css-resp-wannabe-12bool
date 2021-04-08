@@ -15,8 +15,6 @@
 }
 [class*="col-"] {
     float: left;
-    background-color: red;
-    border: 1px solid black;
     min-height: 100px;
 }
 
